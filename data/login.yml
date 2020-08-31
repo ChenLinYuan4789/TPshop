@@ -1,0 +1,21 @@
+test_login:
+  test_login_002:
+    username: "18946977043"
+    password: "clytes1234"
+    toast: "不匹配"
+    screen: "screen_001"
+  test_login_001:
+    username: "18946978043"
+    password: "clytest1234"
+    toast: "成功"
+    screen: "screen_002"
+test_sign_up:
+  test_login_001:
+    username: "18945978043"
+    password: "clytes1234"
+    toast: "不匹配"
+  test_login_002:
+    username: "18946978143"
+    password: "clytest1234"
+    toast: "成功"
+
